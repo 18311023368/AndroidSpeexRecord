@@ -1,0 +1,1 @@
+"# speexRecord"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/18311023368/speexRecord.gitgit push -u origin master
