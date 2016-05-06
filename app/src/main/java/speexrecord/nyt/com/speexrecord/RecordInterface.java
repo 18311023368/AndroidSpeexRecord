@@ -7,6 +7,5 @@ package speexrecord.nyt.com.speexrecord;
  * @更改日志：
  */
 public interface RecordInterface {
-    void  startRecord(boolean isStart);//开始录音
-    void stopRecord(boolean isStart);//停止录音
+    void  startRecord(boolean isStart);
 }
