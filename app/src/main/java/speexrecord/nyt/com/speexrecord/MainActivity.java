@@ -52,8 +52,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 this.setTitle("开始录音了");
                 break;
             case R.id.stop_record:
+                this.setTitle("录音停止");
                 break;
             case R.id.play_record:
+                this.setTitle("开始播放");
                 break;
             case R.id.finish:
                 break;
